@@ -79,6 +79,10 @@
 		{
 			"Name": "LandscapePatch",
 			"Enabled": true
+		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": true
 		}
 	]
 }
