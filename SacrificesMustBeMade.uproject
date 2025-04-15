@@ -83,6 +83,11 @@
 		{
 			"Name": "GraphNUnrealPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "DataAssetStyle",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher:\n//ue/marketplace/product/a3c5d00847e44296a0f599e928789b7f\""
 		}
 	]
 }
